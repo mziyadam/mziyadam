@@ -23,8 +23,8 @@
 <br />
 
 ### About Me 🚀
-👀  I’m interested in Programming and Traveling. </br>
-👨‍💻  I’m currently learning Android Development. </br>
+👀  I’m interested in programming and traveling. </br>
+👨‍💻  I’m currently learning everything. </br>
 
 ### My Github Statistics 🙌
 ![Ziyad's github stats](https://github-readme-stats.vercel.app/api?username=mziyadam&show_icons=true&hide_border=true)&nbsp;&nbsp;
